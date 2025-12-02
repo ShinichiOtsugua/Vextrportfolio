@@ -16,7 +16,7 @@ export const projects = [
       "Authentication System",
       "Multi-role Portal (Student, Professor, Registrar, Admin)"
     ],
-    demoUrl: "https://university-demo-evy0f2lda-augustos-projects-5f2d55de.vercel.app",
+    demoUrl: "https://universitydemo-indol.vercel.app",
     videoPlaceholder: true, // Will be replaced with actual video/gif
     category: "Web Application",
     year: "2024"
@@ -37,7 +37,7 @@ export const projects = [
       "Document Management",
       "Application Tracking"
     ],
-    demoUrl: "https://barangay-website-three.vercel.app",
+    demoUrl: "https://barangay-website-eta.vercel.app",
     videoPlaceholder: true, // Will be replaced with actual video/gif
     category: "Web Application",
     year: "2024"
