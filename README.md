@@ -140,8 +140,7 @@ Update contact information in:
 
 Your projects are already deployed:
 - **University Demo**: https://university-demo-evy0f2lda-augustos-projects-5f2d55de.vercel.app
-- **Barangay Demo**: https://barangay-demo-nfd4oh5qq-augustos-projects-5f2d55de.vercel.app
-
+- **Barangay Demo**: https://barangay-website-three.vercel.app
 ## 📝 License
 
 © 2024 VEXTR. All rights reserved.
